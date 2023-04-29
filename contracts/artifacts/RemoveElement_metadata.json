@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "index",
+						"type": "uint256"
+					}
+				],
+				"name": "deleteAtIindex",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"details": "Store & retrieve value in a variable",
+			"kind": "dev",
+			"methods": {},
+			"title": "Score",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RemoveElement.sol": "RemoveElement"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RemoveElement.sol": {
+			"keccak256": "0x6804eb7c8ba20ee926a2a3ec4bb2b298f030854e578a380e0ef9bd1e1ce6e18e",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a0b2a215b0382c5b4cec590c7e016fecc7fe6ce97819912432f3638cafd8c8c2",
+				"dweb:/ipfs/QmUaZdA3nk65ge33Q3uUy72u432LgLb7XvBD1VqTYfTZWw"
+			]
+		}
+	},
+	"version": 1
+}

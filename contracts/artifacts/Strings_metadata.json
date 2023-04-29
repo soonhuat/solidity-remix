@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/BadgerNFT.sol_flattened.sol": "Strings"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/BadgerNFT.sol_flattened.sol": {
+			"keccak256": "0xde594901b95d7d19252c8989a6a190eac36f3ae5476eace5756937811d366652",
+			"urls": [
+				"bzz-raw://6e9fd9c41127654266d5ed89cec5c2b065e89fb4979e6808ddc4d281fe528a4b",
+				"dweb:/ipfs/QmYknT6mcnSFowq6HX7Ghe44aYw56VdzLJdV2Nty38Ys3K"
+			]
+		}
+	},
+	"version": 1
+}
